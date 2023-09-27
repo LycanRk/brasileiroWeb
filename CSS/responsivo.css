@@ -1,0 +1,54 @@
+@media (max-width: 1120px){
+    
+        
+    }
+
+    .container1{
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+    .container2{
+        flex-direction: column-reverse;
+        max-width: 430px;
+        margin: 0 auto;
+    }
+
+    .conteiner1 .times1{
+        margin-top: 37px;
+    }
+    .conteiner2 .times2{
+        margin-top: 37px;
+    }
+
+    .conteiner1 .times1 .titulo{
+        font-size: 15px;
+    }
+   
+    .conteiner2 .times2 .titulo{
+        font-size: 15px;
+    }
+
+    .container1 .times1{
+        gap: 9px;
+    }
+
+    .container2 .times2{
+        gap: 9px;
+    }
+
+    .selecao-de-times .time img{
+        width: 80px;
+    }
+
+    .time-selecionado .jogador-grande{
+        width: 350px;
+        height: 350px;
+    }
+
+    .time-selecionado .descricao-time{
+        width: 80%;
+        font-size: 16px;
+        margin: 20px auto;
+    }
+
